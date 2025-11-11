@@ -1,0 +1,15 @@
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/bin/Debug/net9.0/Dino Runner
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/bin/Debug/net9.0/Dino Runner.deps.json
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/bin/Debug/net9.0/Dino Runner.runtimeconfig.json
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/bin/Debug/net9.0/Dino Runner.dll
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/bin/Debug/net9.0/Dino Runner.pdb
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.AssemblyInfoInputs.cache
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.AssemblyInfo.cs
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.csproj.CoreCompileInputs.cache
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.sourcelink.json
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.dll
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/refint/Dino Runner.dll
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.pdb
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/Dino Runner.genruntimeconfig.cache
+/Users/finngilbert/Documents/C#/Final-Project-Dino-Runner/Dino Runner/obj/Debug/net9.0/ref/Dino Runner.dll
