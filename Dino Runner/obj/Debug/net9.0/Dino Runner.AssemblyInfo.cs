@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dino Runner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c4190af20ce432dd79c504f85b69cf07c6752f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+603ed76c420c92af2655f660e8e178c7b8f411ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dino Runner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dino Runner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
