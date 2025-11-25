@@ -20,6 +20,7 @@ const int MaxHighScoreEntries = 10;
 const string HighScoreHeader = "Name,HighScore";
 string highScoreFilePath = Path.Combine(AppContext.BaseDirectory, "High Score.csv");
 
+// List for High Score CSV file
 List<(string Name, int Score)> LoadHighScoreEntries()
 {
     List<(string Name, int Score)> entries = new List<(string Name, int Score)>();
@@ -60,6 +61,7 @@ List<(string Name, int Score)> LoadHighScoreEntries()
     return entries;
 }
 
+// Functions for various features and or controls
 void WriteHighScoreEntries(IEnumerable<(string Name, int Score)> entries)
 {
     using StreamWriter writer = new StreamWriter(highScoreFilePath, false);
